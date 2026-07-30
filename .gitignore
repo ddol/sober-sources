@@ -70,6 +70,16 @@ web_modules/
 .env.*
 !.env.example
 
+# claim-grounding eval: volatile run outputs (the harness and reports are
+# tracked; the replay cache and per-run result dumps are not)
+eval/pilot/.cache/
+eval/pilot/results*.jsonl
+eval/pilot/*.out
+# corpus PDFs/markdown are materialised on demand, never checked in (only the
+# manifest is); build-log is a per-run artifact
+eval/corpus/cache/
+eval/corpus/build-log.json
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache

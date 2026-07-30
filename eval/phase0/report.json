@@ -1,0 +1,611 @@
+{
+  "generatedAt": "2026-07-21T00:55:50.043Z",
+  "exactCounts": false,
+  "rows": [
+    {
+      "id": "Behley2019",
+      "pages": 17,
+      "mdTokens": 11538,
+      "mdTokensExact": null,
+      "pdfLow": 33638,
+      "pdfMid": 38738,
+      "pdfHigh": 45538,
+      "ratioMid": 3.357427630438551
+    },
+    {
+      "id": "Bewley2016",
+      "pages": 5,
+      "mdTokens": 4667,
+      "mdTokensExact": null,
+      "pdfLow": 11167,
+      "pdfMid": 12667,
+      "pdfHigh": 14667,
+      "ratioMid": 2.7141632740518533
+    },
+    {
+      "id": "Caesar2020",
+      "pages": 16,
+      "mdTokens": 13143,
+      "mdTokensExact": null,
+      "pdfLow": 33943,
+      "pdfMid": 38743,
+      "pdfHigh": 45143,
+      "ratioMid": 2.9478049151639656
+    },
+    {
+      "id": "Chiu2021PolarStream",
+      "pages": 7,
+      "mdTokens": 8672,
+      "mdTokensExact": null,
+      "pdfLow": 17772,
+      "pdfMid": 19872,
+      "pdfHigh": 22672,
+      "ratioMid": 2.291512915129151
+    },
+    {
+      "id": "Fong2021PanopticNuScenes",
+      "pages": 15,
+      "mdTokens": 12465,
+      "mdTokensExact": null,
+      "pdfLow": 31965,
+      "pdfMid": 36465,
+      "pdfHigh": 42465,
+      "ratioMid": 2.9253910950661854
+    },
+    {
+      "id": "Lefevre2014",
+      "pages": 14,
+      "mdTokens": 12824,
+      "mdTokensExact": null,
+      "pdfLow": 31024,
+      "pdfMid": 35224,
+      "pdfHigh": 40824,
+      "ratioMid": 2.7467248908296944
+    },
+    {
+      "id": "Li2022HDMap",
+      "pages": 7,
+      "mdTokens": 7465,
+      "mdTokensExact": null,
+      "pdfLow": 16565,
+      "pdfMid": 18665,
+      "pdfHigh": 21465,
+      "ratioMid": 2.5003348961821836
+    },
+    {
+      "id": "Liang2020",
+      "pages": 18,
+      "mdTokens": 9877,
+      "mdTokensExact": null,
+      "pdfLow": 33277,
+      "pdfMid": 38677,
+      "pdfHigh": 45877,
+      "ratioMid": 3.9158651412372176
+    },
+    {
+      "id": "Lim2022Patchwork",
+      "pages": 8,
+      "mdTokens": 9004,
+      "mdTokensExact": null,
+      "pdfLow": 19404,
+      "pdfMid": 21804,
+      "pdfHigh": 25004,
+      "ratioMid": 2.421590404264771
+    },
+    {
+      "id": "Luiten2021HOTA",
+      "pages": 31,
+      "mdTokens": 34047,
+      "mdTokensExact": null,
+      "pdfLow": 74347,
+      "pdfMid": 83647,
+      "pdfHigh": 96047,
+      "ratioMid": 2.4568097042323847
+    },
+    {
+      "id": "Mei2022Waymo",
+      "pages": 20,
+      "mdTokens": 10995,
+      "mdTokensExact": null,
+      "pdfLow": 36995,
+      "pdfMid": 42995,
+      "pdfHigh": 50995,
+      "ratioMid": 3.910413824465666
+    },
+    {
+      "id": "Pannen2020",
+      "pages": 8,
+      "mdTokens": 8106,
+      "mdTokensExact": null,
+      "pdfLow": 18506,
+      "pdfMid": 20906,
+      "pdfHigh": 24106,
+      "ratioMid": 2.5790772267456203
+    },
+    {
+      "id": "Qi2017PointNet",
+      "pages": 19,
+      "mdTokens": 11306,
+      "mdTokensExact": null,
+      "pdfLow": 36006,
+      "pdfMid": 41706,
+      "pdfHigh": 49306,
+      "ratioMid": 3.6888377852467715
+    },
+    {
+      "id": "Salzmann2020",
+      "pages": 23,
+      "mdTokens": 11826,
+      "mdTokensExact": null,
+      "pdfLow": 41726,
+      "pdfMid": 48626,
+      "pdfHigh": 57826,
+      "ratioMid": 4.111787586673431
+    },
+    {
+      "id": "Scholler2020",
+      "pages": 8,
+      "mdTokens": 9116,
+      "mdTokensExact": null,
+      "pdfLow": 19516,
+      "pdfMid": 21916,
+      "pdfHigh": 25116,
+      "ratioMid": 2.404124616059675
+    },
+    {
+      "id": "Shi2019PointRCNN",
+      "pages": 10,
+      "mdTokens": 10732,
+      "mdTokensExact": null,
+      "pdfLow": 23732,
+      "pdfMid": 26732,
+      "pdfHigh": 30732,
+      "ratioMid": 2.4908684308609765
+    },
+    {
+      "id": "Sun2020Waymo",
+      "pages": 9,
+      "mdTokens": 8476,
+      "mdTokensExact": null,
+      "pdfLow": 20176,
+      "pdfMid": 22876,
+      "pdfHigh": 26476,
+      "ratioMid": 2.6989145823501652
+    },
+    {
+      "id": "Wojke2017DeepSORT",
+      "pages": 5,
+      "mdTokens": 5118,
+      "mdTokensExact": null,
+      "pdfLow": 11618,
+      "pdfMid": 13118,
+      "pdfHigh": 15118,
+      "ratioMid": 2.5631105900742477
+    },
+    {
+      "id": "Zhou2018VoxelNet",
+      "pages": 10,
+      "mdTokens": 9815,
+      "mdTokensExact": null,
+      "pdfLow": 22815,
+      "pdfMid": 25815,
+      "pdfHigh": 29815,
+      "ratioMid": 2.63015792154865
+    },
+    {
+      "id": "FasterCNN2015",
+      "pages": 14,
+      "mdTokens": 14544,
+      "mdTokensExact": null,
+      "pdfLow": 32744,
+      "pdfMid": 36944,
+      "pdfHigh": 42544,
+      "ratioMid": 2.5401540154015403
+    },
+    {
+      "id": "PointNetDeep2017",
+      "pages": 14,
+      "mdTokens": 8424,
+      "mdTokensExact": null,
+      "pdfLow": 26624,
+      "pdfMid": 30824,
+      "pdfHigh": 36424,
+      "ratioMid": 3.6590693257359925
+    },
+    {
+      "id": "HDNETExploiting2020",
+      "pages": 10,
+      "mdTokens": 7352,
+      "mdTokensExact": null,
+      "pdfLow": 20352,
+      "pdfMid": 23352,
+      "pdfHigh": 27352,
+      "ratioMid": 3.176278563656148
+    },
+    {
+      "id": "Argoverse3D2019",
+      "pages": 18,
+      "mdTokens": 13622,
+      "mdTokensExact": null,
+      "pdfLow": 37022,
+      "pdfMid": 42422,
+      "pdfHigh": 49622,
+      "ratioMid": 3.1142269857583322
+    },
+    {
+      "id": "AdamMethod2014",
+      "pages": 15,
+      "mdTokens": 10591,
+      "mdTokensExact": null,
+      "pdfLow": 30091,
+      "pdfMid": 34591,
+      "pdfHigh": 40591,
+      "ratioMid": 3.266074969313568
+    },
+    {
+      "id": "BDD100KDiverse2018",
+      "pages": 14,
+      "mdTokens": 9216,
+      "mdTokensExact": null,
+      "pdfLow": 27416,
+      "pdfMid": 31616,
+      "pdfHigh": 37216,
+      "ratioMid": 3.4305555555555554
+    },
+    {
+      "id": "MOTChallenge20152015",
+      "pages": 15,
+      "mdTokens": 15185,
+      "mdTokensExact": null,
+      "pdfLow": 34685,
+      "pdfMid": 39185,
+      "pdfHigh": 45185,
+      "ratioMid": 2.5805070793546263
+    },
+    {
+      "id": "ApolloScapeOpen2019",
+      "pages": 17,
+      "mdTokens": 20380,
+      "mdTokensExact": null,
+      "pdfLow": 42480,
+      "pdfMid": 47580,
+      "pdfHigh": 54380,
+      "ratioMid": 2.334641805691855
+    },
+    {
+      "id": "DeepContinuous2020",
+      "pages": 16,
+      "mdTokens": 8637,
+      "mdTokensExact": null,
+      "pdfLow": 29437,
+      "pdfMid": 34237,
+      "pdfHigh": 40637,
+      "ratioMid": 3.963992126895913
+    },
+    {
+      "id": "PointSIFTSIFT2018",
+      "pages": 10,
+      "mdTokens": 7503,
+      "mdTokensExact": null,
+      "pdfLow": 20503,
+      "pdfMid": 23503,
+      "pdfHigh": 27503,
+      "ratioMid": 3.1324803411968545
+    },
+    {
+      "id": "Classbalanced2019",
+      "pages": 8,
+      "mdTokens": 6868,
+      "mdTokensExact": null,
+      "pdfLow": 17268,
+      "pdfMid": 19668,
+      "pdfHigh": 22868,
+      "ratioMid": 2.8637157833430402
+    },
+    {
+      "id": "IntentNetLearning2021",
+      "pages": 10,
+      "mdTokens": 8170,
+      "mdTokensExact": null,
+      "pdfLow": 21170,
+      "pdfMid": 24170,
+      "pdfHigh": 28170,
+      "ratioMid": 2.9583843329253368
+    },
+    {
+      "id": "SpatiallyAware2019",
+      "pages": 11,
+      "mdTokens": 9326,
+      "mdTokensExact": null,
+      "pdfLow": 23626,
+      "pdfMid": 26926,
+      "pdfHigh": 31326,
+      "ratioMid": 2.887197083422689
+    },
+    {
+      "id": "VeryDeep2014",
+      "pages": 14,
+      "mdTokens": 11435,
+      "mdTokensExact": null,
+      "pdfLow": 29635,
+      "pdfMid": 33835,
+      "pdfHigh": 39435,
+      "ratioMid": 2.9588981198076083
+    },
+    {
+      "id": "AutoEncoding2013",
+      "pages": 14,
+      "mdTokens": 7086,
+      "mdTokensExact": null,
+      "pdfLow": 25286,
+      "pdfMid": 29486,
+      "pdfHigh": 35086,
+      "ratioMid": 4.161162856336438
+    },
+    {
+      "id": "YOLOv3Incremental2018",
+      "pages": 6,
+      "mdTokens": 4671,
+      "mdTokensExact": null,
+      "pdfLow": 12471,
+      "pdfMid": 14271,
+      "pdfHigh": 16671,
+      "ratioMid": 3.055234425176622
+    },
+    {
+      "id": "JointFace2016",
+      "pages": 5,
+      "mdTokens": 4727,
+      "mdTokensExact": null,
+      "pdfLow": 11227,
+      "pdfMid": 12727,
+      "pdfHigh": 14727,
+      "ratioMid": 2.692405331076793
+    },
+    {
+      "id": "emergingfield2013",
+      "pages": 14,
+      "mdTokens": 16817,
+      "mdTokensExact": null,
+      "pdfLow": 35017,
+      "pdfMid": 39217,
+      "pdfHigh": 44817,
+      "ratioMid": 2.3319854908723316
+    },
+    {
+      "id": "PastPresent2016",
+      "pages": 25,
+      "mdTokens": 33749,
+      "mdTokensExact": null,
+      "pdfLow": 66249,
+      "pdfMid": 73749,
+      "pdfHigh": 83749,
+      "ratioMid": 2.1852203028237875
+    },
+    {
+      "id": "SpectralNetworks2013",
+      "pages": 14,
+      "mdTokens": 7867,
+      "mdTokensExact": null,
+      "pdfLow": 26067,
+      "pdfMid": 30267,
+      "pdfHigh": 35867,
+      "ratioMid": 3.847336977246727
+    },
+    {
+      "id": "MicrosoftCOCO2014",
+      "pages": 15,
+      "mdTokens": 12494,
+      "mdTokensExact": null,
+      "pdfLow": 31994,
+      "pdfMid": 36494,
+      "pdfHigh": 42494,
+      "ratioMid": 2.9209220425804387
+    },
+    {
+      "id": "SurveyAutonomous2020",
+      "pages": 27,
+      "mdTokens": 33718,
+      "mdTokensExact": null,
+      "pdfLow": 68818,
+      "pdfMid": 76918,
+      "pdfHigh": 87718,
+      "ratioMid": 2.2812147814223858
+    },
+    {
+      "id": "MOT16Benchmark2016",
+      "pages": 12,
+      "mdTokens": 12567,
+      "mdTokensExact": null,
+      "pdfLow": 28167,
+      "pdfMid": 31767,
+      "pdfHigh": 36567,
+      "ratioMid": 2.5278109333969923
+    },
+    {
+      "id": "DeepMulti2020",
+      "pages": 27,
+      "mdTokens": 27679,
+      "mdTokensExact": null,
+      "pdfLow": 62779,
+      "pdfMid": 70879,
+      "pdfHigh": 81679,
+      "ratioMid": 2.5607500270963546
+    },
+    {
+      "id": "Cityscapesdataset2016",
+      "pages": 29,
+      "mdTokens": 9865,
+      "mdTokensExact": null,
+      "pdfLow": 47565,
+      "pdfMid": 56265,
+      "pdfHigh": 67865,
+      "ratioMid": 5.703497212366954
+    },
+    {
+      "id": "disciplinedapproach2018",
+      "pages": 21,
+      "mdTokens": 16082,
+      "mdTokensExact": null,
+      "pdfLow": 43382,
+      "pdfMid": 49682,
+      "pdfHigh": 58082,
+      "ratioMid": 3.089292376570078
+    },
+    {
+      "id": "WhatMakes2015",
+      "pages": 16,
+      "mdTokens": 18572,
+      "mdTokensExact": null,
+      "pdfLow": 39372,
+      "pdfMid": 44172,
+      "pdfHigh": 50572,
+      "ratioMid": 2.378419125565367
+    },
+    {
+      "id": "ReviewPoint2015",
+      "pages": 108,
+      "mdTokens": 38827,
+      "mdTokensExact": null,
+      "pdfLow": 179227,
+      "pdfMid": 211627,
+      "pdfHigh": 254827,
+      "ratioMid": 5.450511242176836
+    },
+    {
+      "id": "Joint2D2017",
+      "pages": 9,
+      "mdTokens": 6477,
+      "mdTokensExact": null,
+      "pdfLow": 18177,
+      "pdfMid": 20877,
+      "pdfHigh": 24477,
+      "ratioMid": 3.22325150532654
+    },
+    {
+      "id": "InteractionNetworks2016",
+      "pages": 12,
+      "mdTokens": 7975,
+      "mdTokensExact": null,
+      "pdfLow": 23575,
+      "pdfMid": 27175,
+      "pdfHigh": 31975,
+      "ratioMid": 3.407523510971787
+    },
+    {
+      "id": "ParisLille2017",
+      "pages": 17,
+      "mdTokens": 8533,
+      "mdTokensExact": null,
+      "pdfLow": 30633,
+      "pdfMid": 35733,
+      "pdfHigh": 42533,
+      "ratioMid": 4.187624516582679
+    },
+    {
+      "id": "VirtualWorlds2016",
+      "pages": 10,
+      "mdTokens": 9672,
+      "mdTokensExact": null,
+      "pdfLow": 22672,
+      "pdfMid": 25672,
+      "pdfHigh": 29672,
+      "ratioMid": 2.654259718775848
+    },
+    {
+      "id": "AIIMU2020",
+      "pages": 10,
+      "mdTokens": 11127,
+      "mdTokensExact": null,
+      "pdfLow": 24127,
+      "pdfMid": 27127,
+      "pdfHigh": 31127,
+      "ratioMid": 2.437943740451155
+    },
+    {
+      "id": "CARLAOpen2017",
+      "pages": 16,
+      "mdTokens": 11183,
+      "mdTokensExact": null,
+      "pdfLow": 31983,
+      "pdfMid": 36783,
+      "pdfHigh": 43183,
+      "ratioMid": 3.2891889475096128
+    },
+    {
+      "id": "CrossView2020",
+      "pages": 7,
+      "mdTokens": 7352,
+      "mdTokensExact": null,
+      "pdfLow": 16452,
+      "pdfMid": 18552,
+      "pdfHigh": 21352,
+      "ratioMid": 2.5233949945593035
+    },
+    {
+      "id": "A2D2Audi2020",
+      "pages": 10,
+      "mdTokens": 7735,
+      "mdTokensExact": null,
+      "pdfLow": 20735,
+      "pdfMid": 23735,
+      "pdfHigh": 27735,
+      "ratioMid": 3.0685197155785393
+    },
+    {
+      "id": "ERASOREgocentric2021",
+      "pages": 9,
+      "mdTokens": 8932,
+      "mdTokensExact": null,
+      "pdfLow": 20632,
+      "pdfMid": 23332,
+      "pdfHigh": 26932,
+      "ratioMid": 2.61218092252575
+    },
+    {
+      "id": "SomeImprovements2013",
+      "pages": 6,
+      "mdTokens": 4357,
+      "mdTokensExact": null,
+      "pdfLow": 12157,
+      "pdfMid": 13957,
+      "pdfHigh": 16357,
+      "ratioMid": 3.2033509295386735
+    },
+    {
+      "id": "TNTTarget2020",
+      "pages": 12,
+      "mdTokens": 7858,
+      "mdTokensExact": null,
+      "pdfLow": 23458,
+      "pdfMid": 27058,
+      "pdfHigh": 31858,
+      "ratioMid": 3.443369814202087
+    },
+    {
+      "id": "FPNNField2016",
+      "pages": 10,
+      "mdTokens": 8586,
+      "mdTokensExact": null,
+      "pdfLow": 21586,
+      "pdfMid": 24586,
+      "pdfHigh": 28586,
+      "ratioMid": 2.863498718844631
+    },
+    {
+      "id": "OneThousand2020",
+      "pages": 10,
+      "mdTokens": 6587,
+      "mdTokensExact": null,
+      "pdfLow": 19587,
+      "pdfMid": 22587,
+      "pdfHigh": 26587,
+      "ratioMid": 3.4290268711097616
+    }
+  ],
+  "corpus": {
+    "avgPdfTokens": 36046,
+    "avgMdTokens": 11859,
+    "avgPages": 15.116666666666667
+  }
+}

@@ -17,7 +17,11 @@ module.exports = {
   // against N versions of the source) and jest-haste-map reports duplicate
   // package.json manifests. modulePathIgnorePatterns is the one that silences
   // haste; testPathIgnorePatterns alone only stops the tests from running.
-  testPathIgnorePatterns: ['/node_modules/', '/.claude/'],
+  // /eval/ is the claim-grounding eval harness: standalone ts-node scripts that
+  // hit the Anthropic API, deliberately outside the Jest suite and the coverage
+  // ratchet (docs/plans/claim-grounding-eval.md). None of its files match
+  // testMatch today; the ignore is belt-and-braces for future eval/*.test.ts.
+  testPathIgnorePatterns: ['/node_modules/', '/.claude/', '/eval/'],
   modulePathIgnorePatterns: ['/.claude/'],
   transform: {
     '^.+\\.tsx?$': [

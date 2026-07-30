@@ -19,9 +19,9 @@
     "metrics:json": "npm run metrics -- --json",
     "cli": "node dist/index.js",
     "server": "node dist/index.js server",
-    "lint": "eslint 'src/**/*.{ts,tsx}' 'test/**/*.{ts,tsx}'",
-    "lint:fix": "eslint --fix 'src/**/*.{ts,tsx}' 'test/**/*.{ts,tsx}'",
-    "format": "prettier --write 'src/**/*.{ts,tsx,json}' 'test/**/*.{ts,tsx,json}'",
+    "lint": "eslint 'src/**/*.{ts,tsx}' 'test/**/*.{ts,tsx}' 'eval/**/*.{ts,tsx}'",
+    "lint:fix": "eslint --fix 'src/**/*.{ts,tsx}' 'test/**/*.{ts,tsx}' 'eval/**/*.{ts,tsx}'",
+    "format": "prettier --write 'src/**/*.{ts,tsx,json}' 'test/**/*.{ts,tsx,json}' 'eval/**/*.{ts,tsx,json}'",
     "typecheck": "tsc --noEmit",
     "pretest": "tsc --noEmit",
     "test": "jest",
@@ -54,6 +54,7 @@
     "playwright": "^1.41.2"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.112.4",
     "@types/better-sqlite3": "^7.6.13",
     "@types/jest": "^29.5.11",
     "@types/node": "^20.11.5",
